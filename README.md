@@ -90,4 +90,5 @@ Method: Bayesian optimization (bayes), grid search (grid), or random search (ran
 -Activation function (activation: Sigmoid, Tanh, ReLU)
 
 Weight initialization method (weight_init: Random or Xavier)
+
 Project URL: https://wandb.ai/me21b118-iit-madras/fashion_mnist_sweep
