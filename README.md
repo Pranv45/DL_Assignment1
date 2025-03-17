@@ -92,3 +92,7 @@ Method: Bayesian optimization (bayes), grid search (grid), or random search (ran
 Weight initialization method (weight_init: Random or Xavier)
 
 Project URL: https://wandb.ai/me21b118-iit-madras/fashion_mnist_sweep
+
+Wandb report link : https://api.wandb.ai/links/me21b118-iit-madras/xbduieoi
+
+Github repo link : https://github.com/Pranv45/DL_Assignment1.git
