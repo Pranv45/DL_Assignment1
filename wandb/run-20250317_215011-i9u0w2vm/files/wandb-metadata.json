@@ -1,0 +1,31 @@
+{
+  "os":  "Windows-10-10.0.26100-SP0",
+  "python":  "CPython 3.10.11",
+  "startedAt":  "2025-03-17T16:20:11.125183Z",
+  "program":  "C:\\Users\\91831\\Desktop\\Deep Learning\\DL_Assignment1\\train.py",
+  "codePath":  "train.py",
+  "git":  {
+    "remote":  "https://github.com/Pranv45/DL_Assignment1.git",
+    "commit":  "15242de2866e1d8fb4d98ada6d1f62e5e3c0020c"
+  },
+  "email":  "me21b118@smail.iitm.ac.in",
+  "root":  "C:\\Users\\91831\\Desktop\\Deep Learning\\DL_Assignment1",
+  "host":  "LAPTOP-LGJ3JARG",
+  "executable":  "C:\\Users\\91831\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\python.exe",
+  "codePathLocal":  "train.py",
+  "cpu_count":  4,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "510843154432",
+      "used":  "252447735808"
+    }
+  },
+  "memory":  {
+    "total":  "12510072832"
+  },
+  "cpu":  {
+    "count":  4,
+    "countLogical":  8
+  }
+}
