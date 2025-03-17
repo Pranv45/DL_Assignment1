@@ -2,7 +2,6 @@
 import sys
 sys.path.append("C:/Users/91831/Desktop/Deep Learning/DL_Assignment1")
 
-
 import numpy as np
 from models.activations import sigmoid, tanh, relu, identity, softmax
 
@@ -23,6 +22,14 @@ class NeuralNetwork:
             'identity': identity,
             'softmax': softmax
         }
+
+        self.activation_derivatives = {
+            'sigmoid': lambda x: x * (1 - x),
+            'tanh': lambda x: 1 - np.tanh(x) ** 2,
+            'ReLU': lambda x: (x > 0).astype(float),
+            'identity': lambda x: np.ones_like(x)
+        }
+
         
         self.layers = [input_size] + hidden_sizes + [output_size]
         self.params = self.initialize_weights(weight_init)
