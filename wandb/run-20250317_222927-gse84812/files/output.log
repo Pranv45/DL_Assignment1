@@ -1,0 +1,16 @@
+Epoch 1/10 - Train Loss: 2.4301, Train Accuracy: 0.1000 | Val Loss: 2.4338, Val Accuracy: 0.1003
+Epoch 2/10 - Train Loss: 2.3913, Train Accuracy: 0.1000 | Val Loss: 2.3938, Val Accuracy: 0.1003
+c:\Users\91831\Desktop\Deep Learning\DL_Assignment1\models\feedforward_nn.py:27: RuntimeWarning: overflow encountered in multiply
+  'sigmoid': lambda x: x * (1 - x),
+c:\Users\91831\Desktop\Deep Learning\DL_Assignment1\models\backpropogation.py:57: RuntimeWarning: invalid value encountered in matmul
+  dW_curr = cache[f'A{i-1}'].T @ dZ_curr / dZ_curr.shape[0]
+C:\Users\91831\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\numpy\_core\fromnumeric.py:86: RuntimeWarning: invalid value encountered in reduce
+  return ufunc.reduce(obj, axis, dtype, out, **passkwargs)
+Epoch 3/10 - Train Loss: nan, Train Accuracy: 0.0994 | Val Loss: nan, Val Accuracy: 0.1050
+Epoch 4/10 - Train Loss: nan, Train Accuracy: 0.0994 | Val Loss: nan, Val Accuracy: 0.1050
+Epoch 5/10 - Train Loss: nan, Train Accuracy: 0.0994 | Val Loss: nan, Val Accuracy: 0.1050
+Epoch 6/10 - Train Loss: nan, Train Accuracy: 0.0994 | Val Loss: nan, Val Accuracy: 0.1050
+Epoch 7/10 - Train Loss: nan, Train Accuracy: 0.0994 | Val Loss: nan, Val Accuracy: 0.1050
+Epoch 8/10 - Train Loss: nan, Train Accuracy: 0.0994 | Val Loss: nan, Val Accuracy: 0.1050
+Epoch 9/10 - Train Loss: nan, Train Accuracy: 0.0994 | Val Loss: nan, Val Accuracy: 0.1050
+Epoch 10/10 - Train Loss: nan, Train Accuracy: 0.0994 | Val Loss: nan, Val Accuracy: 0.1050

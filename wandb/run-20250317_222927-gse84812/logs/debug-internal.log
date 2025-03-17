@@ -1,0 +1,16 @@
+{"time":"2025-03-17T22:29:27.9739675+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"C:\\Users\\91831\\Desktop\\Deep Learning\\DL_Assignment1\\wandb\\run-20250317_222927-gse84812\\logs\\debug-core.log"}
+{"time":"2025-03-17T22:29:28.0965627+05:30","level":"INFO","msg":"created new stream","id":"gse84812"}
+{"time":"2025-03-17T22:29:28.0965627+05:30","level":"INFO","msg":"stream: started","id":"gse84812"}
+{"time":"2025-03-17T22:29:28.0965627+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"gse84812"}
+{"time":"2025-03-17T22:29:28.0965627+05:30","level":"INFO","msg":"handler: started","stream_id":"gse84812"}
+{"time":"2025-03-17T22:29:28.0965627+05:30","level":"INFO","msg":"sender: started","stream_id":"gse84812"}
+{"time":"2025-03-17T22:29:28.4918426+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T22:30:48.2728275+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T22:30:48.2733354+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T22:30:49.281274+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.3934771,"progress":"1.5KB/1.5KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.3934771,"progress":"252B/252B"},{"desc":"uploading config.yaml","runtime_seconds":0.0888766,"progress":"904B/904B"}],"total_operations":3}}
+{"time":"2025-03-17T22:30:50.1915391+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T22:30:50.5668337+05:30","level":"INFO","msg":"stream: closing","id":"gse84812"}
+{"time":"2025-03-17T22:30:50.5668337+05:30","level":"INFO","msg":"handler: closed","stream_id":"gse84812"}
+{"time":"2025-03-17T22:30:50.5668337+05:30","level":"INFO","msg":"sender: closed","stream_id":"gse84812"}
+{"time":"2025-03-17T22:30:50.5668337+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"gse84812"}
+{"time":"2025-03-17T22:30:50.5675745+05:30","level":"INFO","msg":"stream: closed","id":"gse84812"}

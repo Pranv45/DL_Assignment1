@@ -1,0 +1,14 @@
+Epoch 1/10 - Train Loss: 2.2744, Train Accuracy: 0.1404 | Val Loss: 2.2630, Val Accuracy: 0.1483
+Epoch 2/10 - Train Loss: 2.3298, Train Accuracy: 0.1828 | Val Loss: 2.3099, Val Accuracy: 0.1930
+c:\Users\91831\Desktop\Deep Learning\DL_Assignment1\models\feedforward_nn.py:58: RuntimeWarning: overflow encountered in matmul
+  Z_curr = A_prev @ self.params[f'W{i}'] + self.params[f'b{i}']
+c:\Users\91831\Desktop\Deep Learning\DL_Assignment1\models\feedforward_nn.py:58: RuntimeWarning: invalid value encountered in matmul
+  Z_curr = A_prev @ self.params[f'W{i}'] + self.params[f'b{i}']
+Epoch 3/10 - Train Loss: nan, Train Accuracy: 0.0994 | Val Loss: nan, Val Accuracy: 0.1050
+Epoch 4/10 - Train Loss: nan, Train Accuracy: 0.0994 | Val Loss: nan, Val Accuracy: 0.1050
+Epoch 5/10 - Train Loss: nan, Train Accuracy: 0.0994 | Val Loss: nan, Val Accuracy: 0.1050
+Epoch 6/10 - Train Loss: nan, Train Accuracy: 0.0994 | Val Loss: nan, Val Accuracy: 0.1050
+Epoch 7/10 - Train Loss: nan, Train Accuracy: 0.0994 | Val Loss: nan, Val Accuracy: 0.1050
+Epoch 8/10 - Train Loss: nan, Train Accuracy: 0.0994 | Val Loss: nan, Val Accuracy: 0.1050
+Epoch 9/10 - Train Loss: nan, Train Accuracy: 0.0994 | Val Loss: nan, Val Accuracy: 0.1050
+Epoch 10/10 - Train Loss: nan, Train Accuracy: 0.0994 | Val Loss: nan, Val Accuracy: 0.1050

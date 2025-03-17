@@ -1,0 +1,16 @@
+{"time":"2025-03-17T22:34:53.1449833+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"C:\\Users\\91831\\Desktop\\Deep Learning\\DL_Assignment1\\wandb\\run-20250317_223453-nmbi49jl\\logs\\debug-core.log"}
+{"time":"2025-03-17T22:34:53.2674396+05:30","level":"INFO","msg":"created new stream","id":"nmbi49jl"}
+{"time":"2025-03-17T22:34:53.2674396+05:30","level":"INFO","msg":"stream: started","id":"nmbi49jl"}
+{"time":"2025-03-17T22:34:53.2674396+05:30","level":"INFO","msg":"handler: started","stream_id":"nmbi49jl"}
+{"time":"2025-03-17T22:34:53.2674396+05:30","level":"INFO","msg":"sender: started","stream_id":"nmbi49jl"}
+{"time":"2025-03-17T22:34:53.2674396+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"nmbi49jl"}
+{"time":"2025-03-17T22:34:53.666403+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T22:35:59.6124639+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T22:35:59.61297+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T22:36:00.6240027+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.3558348,"progress":"971B/971B"},{"desc":"uploading config.yaml","runtime_seconds":0.0547535,"progress":"895B/895B"}],"total_operations":2}}
+{"time":"2025-03-17T22:36:01.5931275+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T22:36:02.3206628+05:30","level":"INFO","msg":"stream: closing","id":"nmbi49jl"}
+{"time":"2025-03-17T22:36:02.3206628+05:30","level":"INFO","msg":"handler: closed","stream_id":"nmbi49jl"}
+{"time":"2025-03-17T22:36:02.3206628+05:30","level":"INFO","msg":"sender: closed","stream_id":"nmbi49jl"}
+{"time":"2025-03-17T22:36:02.3206628+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"nmbi49jl"}
+{"time":"2025-03-17T22:36:02.3211735+05:30","level":"INFO","msg":"stream: closed","id":"nmbi49jl"}
