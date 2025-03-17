@@ -27,21 +27,16 @@ wandb login <API_KEY>
 '''
 
 DL_ASSIGNMENT1/
-├── data/
-│   ├── dataset.py         # Contains the FashionMNISTLoader class for loading and preprocessing the dataset
-├── models/
-│   ├── activations.py     # Implements activation functions (ReLU, Sigmoid, Tanh, etc.)
-│   ├── backpropagation.py # Implements backpropagation logic for training the neural network
-│   ├── feedforward_nn.py  # Defines the feedforward neural network architecture
-│   ├── optimizers.py      # Contains optimization algorithms (SGD, Adam, RMSProp, etc.)
-│   ├── utils.py           # Utility functions (e.g., one-hot encoding, accuracy computation)
-├── tests/
-│   ├── test_feedforward_nn.py  # Unit tests for feedforward neural network implementation
-├── wandb/                 # Directory for WandB configuration files
-├── train.py               # Script to train the model and perform hyperparameter sweeps using WandB
-├── visualize.ipynb        # Jupyter notebook for visualizing training results and metrics
-├── README.md              # Project documentation (this file)
-'''
+- **data/dataset.py**: Loads and preprocesses the Fashion-MNIST dataset.
+- **models/activations.py**: Contains implementations for common activation functions like ReLU, Sigmoid, and Tanh.
+- **models/backpropagation.py**: Implements the backpropagation algorithm for updating weights during training.
+- **models/feedforward_nn.py**: Defines the architecture of the feedforward neural network.
+- **models/optimizers.py**: Contains implementations for various optimization algorithms such as SGD, Adam, and RMSProp.
+- **models/utils.py**: Utility functions for tasks like one-hot encoding and calculating model accuracy.
+- **tests/test_feedforward_nn.py**: Unit tests to validate the functionality of the feedforward neural network.
+- **wandb/**: Contains configuration files for tracking experiments using WandB.
+- **train.py**: The script that initiates training and hyperparameter tuning via WandB sweeps.
+- **visualize.ipynb**: A Jupyter notebook for visualizing the
 
 ## Usage
 Run the training script:
