@@ -1,10 +1,15 @@
 DA6401_ASSIGNMENT1: Fashion MNIST Classification
+
 Project Description
+
 This project implements a deep learning model to classify images from the Fashion MNIST dataset. It includes custom implementations of feedforward neural networks, backpropagation, activation functions, optimizers, and utilities. The training process is integrated with Weights & Biases (WandB) for hyperparameter sweeps and tracking model performance.
 
 Project Structure
+
 text
+
 DL_ASSIGNMENT1/
+
 ├── data/
 │   ├── dataset.py         # Contains the FashionMNISTLoader class for loading and preprocessing the dataset
 ├── models/
