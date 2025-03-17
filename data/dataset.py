@@ -8,6 +8,7 @@ class FashionMNISTLoader:
 
     def get_data(self, normalize=True, flatten=True):
         X_train, X_test = self.X_train, self.X_test
+        y_train, y_test = self.y_train, self.y_test
 
         if normalize:
             X_train = X_train.astype(np.float32) / 255.0
@@ -17,7 +18,7 @@ class FashionMNISTLoader:
             X_train = X_train.reshape(-1, 784)
             X_test = X_test.reshape(-1, 784)
 
-        return (X_train, self.y_train), (X_test, self.y_test)
+        return (X_train, y_train), (X_test, y_test)
 
     def get_class_names(self):
         return [
