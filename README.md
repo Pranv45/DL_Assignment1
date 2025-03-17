@@ -24,6 +24,7 @@ wandb login <API_KEY>
 
 
 ## Project Structure
+'''
 
 DL_ASSIGNMENT1/
 ├── data/
@@ -40,8 +41,7 @@ DL_ASSIGNMENT1/
 ├── train.py               # Script to train the model and perform hyperparameter sweeps using WandB
 ├── visualize.ipynb        # Jupyter notebook for visualizing training results and metrics
 ├── README.md              # Project documentation (this file)
-
-
+'''
 
 ## Usage
 Run the training script:
