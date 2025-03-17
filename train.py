@@ -91,6 +91,7 @@ def train_model():
             'epoch': epoch + 1
         })
 
+
         print(f"Epoch {epoch + 1}/{config.epochs} - Train Loss: {train_loss:.4f}, Train Accuracy: {train_acc:.4f} | Val Loss: {val_loss:.4f}, Val Accuracy: {val_acc:.4f}")
 
     wandb.finish()
@@ -116,4 +117,4 @@ sweep_config = {
 sweep_id = wandb.sweep(sweep_config, project="fashion_mnist_sweep")
 
 # Start the sweep agent
-wandb.agent(sweep_id, function=train_model, count=5)  # You can set count to any number to control how many different runs you want
+wandb.agent(sweep_id, function=train_model, count=20)  # You can set count to any number to control how many different runs you want
