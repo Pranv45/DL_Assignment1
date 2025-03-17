@@ -24,9 +24,7 @@ wandb login <API_KEY>
 
 
 ## Project Structure
-'''
 
-DL_ASSIGNMENT1/
 - **data/dataset.py**: Loads and preprocesses the Fashion-MNIST dataset.
 - **models/activations.py**: Contains implementations for common activation functions like ReLU, Sigmoid, and Tanh.
 - **models/backpropagation.py**: Implements the backpropagation algorithm for updating weights during training.
