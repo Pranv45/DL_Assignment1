@@ -6,3 +6,5 @@ Epoch 5/10 - Train Loss: 1.9506, Train Accuracy: 0.3659 | Val Loss: 1.9488, Val 
 Epoch 6/10 - Train Loss: 1.9092, Train Accuracy: 0.4076 | Val Loss: 1.9080, Val Accuracy: 0.4063
 Epoch 7/10 - Train Loss: 1.8730, Train Accuracy: 0.4394 | Val Loss: 1.8723, Val Accuracy: 0.4412
 Epoch 8/10 - Train Loss: 1.8407, Train Accuracy: 0.4631 | Val Loss: 1.8404, Val Accuracy: 0.4647
+Epoch 9/10 - Train Loss: 1.8116, Train Accuracy: 0.4785 | Val Loss: 1.8117, Val Accuracy: 0.4813
+Epoch 10/10 - Train Loss: 1.7852, Train Accuracy: 0.4901 | Val Loss: 1.7857, Val Accuracy: 0.4910
